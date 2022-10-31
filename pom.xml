@@ -44,7 +44,6 @@
           </archive>
         </configuration>
       </plugin>
-
       <plugin>
       <groupId>org.codehaus.mojo</groupId>
       <artifactId>exec-maven-plugin</artifactId>
@@ -60,7 +59,6 @@
       <mainClass>com.mycompany.app.App</mainClass>
       </configuration>
       </plugin>
-
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-enforcer-plugin</artifactId>
